@@ -1,0 +1,18 @@
+
+.result.perfect {
+    font-size: 4rem;
+  }
+
+.result {
+    width: auto;
+    display: inline-block;
+    padding: 5px;
+}
+
+form {
+    padding: 5px;
+}
+
+body{
+    border: solid black 1px;
+}
